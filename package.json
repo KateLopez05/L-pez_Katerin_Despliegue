@@ -1,0 +1,11 @@
+{
+  "name": "lopez_katerin_despliegue.json",
+  "version": "1.0.0",
+  "description": "Mi proyecto final de Ing. Web (despliegue de aplicación)",
+  "main": "newProduct.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katerin_Lopez",
+  "license": "ISC"
+}
